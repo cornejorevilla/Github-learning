@@ -10,3 +10,4 @@ python -m http.server 8000
 
 Controls: Pause/Start, Reset, Speed slider, Trails toggle, Center Sun.
 Estoy aprendiendo Git con Copilot
+Dia 2: Aprendiendo Github
